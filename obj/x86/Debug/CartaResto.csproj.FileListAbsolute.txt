@@ -1,0 +1,2 @@
+Z:\Restaurant\obj\x86\Debug\CartaResto.csprojAssemblyReference.cache
+Z:\Restaurant\obj\x86\Debug\CartaResto.csproj.CoreCompileInputs.cache
